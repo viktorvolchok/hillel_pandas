@@ -1,4 +1,5 @@
 from random import random
+
 from factory import Factory
 import pandas as pd
 import factory
